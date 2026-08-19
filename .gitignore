@@ -1,0 +1,4 @@
+*.txt
+!lib.txt
+build/
+/temp
